@@ -39,3 +39,20 @@ function myFunction() {
     document.getElementById("demo").innerHTML = x + "<br>" + y;
 }
 </script>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>²ËÄñ½Ì³Ì(runoob.com)</title>
+</head>
+<body>
+
+<script>
+var y = 0377;
+var z = 0xFF; 
+document.write(y + "<br>");
+document.write(z + "<br>");
+</script>
+
+</body>
+</html>
